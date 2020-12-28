@@ -1,6 +1,6 @@
 ### Hi folks 👋
 My name is Kirill, aka qSatan1s, I'm  FrontEnd Developer
-
+'More effort now to save effort later' mentality & clean code as a life style.
 
 # Contributions
 
