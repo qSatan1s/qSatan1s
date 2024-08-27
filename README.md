@@ -12,7 +12,7 @@ More effort now to save effort later' mentality & clean code as a life style.
 ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
 ![Pinia](https://img.shields.io/badge/Pinia-yellow?style=for-the-badge&logo=Pinia&logoColor=white)
 ![Vuex](https://img.shields.io/badge/Vuex%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08)
-![Vue-query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=React_Query&logoColor=white)
+![Vue-query](https://img.shields.io/badge/Vue_Query-FF4154?style=for-the-badge&logo=Vue_Query&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 
 ![NodeJs](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
